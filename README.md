@@ -14,8 +14,16 @@
 
 - [初级班笔记](http://www.zhenganwen.top/62859a9a.html)
 - [进阶班笔记](http://www.zhenganwen.top/19e411e9.html)
+- [剑指offer解析（Java实现）](http://www.zhenganwen.top/72fb66ce.html)
 
 ------------------
+
+## Java基础
+
+### JVM
+
+- 《深入理解Java虚拟机（第二版）》（作者：周志明）
+- [自己动手编译OpenJDK](http://www.zhenganwen.top/59d4d6fb.html)
 
 ## 数据库
 
