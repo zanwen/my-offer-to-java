@@ -1,3 +1,7 @@
+# 一份薄礼
+
+既然咱俩如此有缘，贤弟略备薄礼不成敬意：[click me](./posts/2019-02-04-一份薄礼.md)
+
 # my-offer-to-java
 
 > 谨以此仓库记录双非二本的我追寻`java offer`的学习历程，如果对你有帮助请顺手点一下右上角的`star`
@@ -29,6 +33,7 @@
 
 - [Java线程是如何实现的？](./posts/2019-01-31-Java线程是如何实现的？.md)
 - [并发与多线程基础](./posts/并发与多线程基础.md)
+- [从CPU Cache出发彻底弄懂volatile,synchronized,cas](./posts/2019-02-01-从CPU Cache出发彻底弄懂volatile,synchronized,cas.md)
 
 ---------
 
