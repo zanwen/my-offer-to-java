@@ -33,7 +33,7 @@
 
 - [Java线程是如何实现的？](./posts/2019-01-31-Java线程是如何实现的？.md)
 - [并发与多线程基础](./posts/并发与多线程基础.md)
-- [从CPU Cache出发彻底弄懂volatile,synchronized,cas](./posts/2019-02-01-从CPU Cache出发彻底弄懂volatile,synchronized,cas.md)
+- [从CPU Cache出发彻底弄懂volatile,synchronized,cas](./posts/2019-02-01-从CPUCache出发彻底弄懂volatile-synchronized-cas.md)
 
 ---------
 
@@ -50,3 +50,7 @@
 ### 并发编程
 
 ![](http://zanwenblog.oss-cn-beijing.aliyuncs.com/19-1-3/99943411.jpg)
+
+### 深入理解JVM
+
+![](https://uploadfiles.nowcoder.com/images/20190205/8222772_1549370594559_6E5F36EEFCC528CAA0153B54E018D829)
