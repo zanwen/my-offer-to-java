@@ -1,6 +1,6 @@
-# 一份薄礼
-
-既然咱俩如此有缘，贤弟略备薄礼不成敬意：[click me](./posts/2019-02-04-一份薄礼.md)
+> 既然咱俩如此有缘，贤弟略备薄礼不成敬意：[click me](./posts/2019-02-04-一份薄礼.md)
+>
+> 个人技术博客：www.zhenganwen.top
 
 # my-offer-to-java
 
